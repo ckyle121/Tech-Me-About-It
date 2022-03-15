@@ -98,7 +98,7 @@ main {
   padding: 0;
   cursor: pointer;
   text-decoration: none;
-  color: #0099DD;
+  color: #3486eb;
   font-size: 100%;
   font-weight: bold;
   transition: color .1s;
@@ -111,7 +111,7 @@ main {
 }
 
 .delete-post-btn {
-  background-color: #0099DD;
+  background-color: #3486eb;
 }
 
 .delete-post-btn:hover {
@@ -131,6 +131,10 @@ main {
 h8 {
   color: #FF9933;
   font-size: 150%
+}
+
+.posts-list {
+  list-style: none;
 }
 
 .dashboard{
