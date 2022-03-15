@@ -28,6 +28,3 @@ https://mysterious-journey-09576.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/75647359/158427714-85db7def-6fd8-4cb3-98fa-e179afc5b145.png)
 
-### View Post/ Add Comments
-
-![image](https://user-images.githubusercontent.com/75647359/158426916-b0737f6b-0d8b-46e4-8d1e-8665a1aeb37d.png)
