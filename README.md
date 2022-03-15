@@ -12,7 +12,7 @@ https://mysterious-journey-09576.herokuapp.com/
 * Express.js
 * MySQL
 * Sequelize  (npm pacakge for integrating MySQL and Node.js)
-* Handlebars
+* Handlebars.js
 * dotenv
 * bcrypt (npm package for password hashing)
 
