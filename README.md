@@ -20,14 +20,14 @@ https://mysterious-journey-09576.herokuapp.com/
 #### Homepage
 
 ![image](https://user-images.githubusercontent.com/75647359/158427204-1df208ee-4d12-4cbe-9a67-897c3a95f521.png)
-#### Log In / Sign Up Page
+### Log In / Sign Up Page
 
 ![image](https://user-images.githubusercontent.com/75647359/158427075-2df1ac4a-7d8f-41a5-91fe-1a31ff69859b.png)
 
-#### User Page
+### User Page
 
 ![image](https://user-images.githubusercontent.com/75647359/158427714-85db7def-6fd8-4cb3-98fa-e179afc5b145.png)
 
-#### View Post/ Add Comments
+### View Post/ Add Comments
 
 ![image](https://user-images.githubusercontent.com/75647359/158426916-b0737f6b-0d8b-46e4-8d1e-8665a1aeb37d.png)
