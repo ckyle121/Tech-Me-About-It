@@ -4,7 +4,7 @@
 This application is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. The app follows the Model-View-Controller (MVC) paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Deployed Application (Heroku)
-https://mysterious-journey-09576.herokuapp.com/
+https://tech-me-about-it.herokuapp.com/
 
 ## Technologies Used 
 * Javascript
